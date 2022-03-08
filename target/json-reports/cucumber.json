@@ -1,0 +1,87 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-02-22T23:37:40.983Z",
+        "line": 3,
+        "name": "User verifies how elements are selected in  ALL menu",
+        "description": "",
+        "id": "verify-that-when-user-clicks-on-all-section--he/she-can-choose/see-all-elements-in-all-section;user-verifies-how-elements-are-selected-in--all-menu",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "User navigates to homepage",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 432000,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "User clicks on ALL section",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 327000,
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "Verify that all elements are seen",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 398000,
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "User chooses one of them",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 252000,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "User verifies that any section can be chosen or selected.",
+            "match": {},
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@us03"
+          }
+        ]
+      }
+    ],
+    "name": "Verify that when user clicks on ALL section, he/she can choose/see all elements in ALL section",
+    "description": "",
+    "id": "verify-that-when-user-clicks-on-all-section--he/she-can-choose/see-all-elements-in-all-section",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/uiFeature/us03.feature",
+    "tags": [
+      {
+        "name": "@us03",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

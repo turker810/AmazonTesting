@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="23.340716">
+    <testcase classname="Verify if a user will be able to sign in with a invalid username and invalid password." name="User will be able to sign in with invalid credentials" time="23.340716">
+        <system-out>
+            <![CDATA[Given User navigates to "https://www.amazon.com/"...........................passed
+Then User clicks on sign in button..........................................passed
+Then User types invalid credentials.........................................passed
+When User clicks on submit button...........................................passed
+And User verifies that user can not sign in.................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

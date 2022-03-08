@@ -1,0 +1,189 @@
+2022-02-22 18:41:50 INFO  Log:37 - All butonuna tıklandı
+2022-02-22 18:43:52 INFO  Log:37 - All butonuna tıklandı
+2022-02-22 19:10:41 INFO  Log:37 - All butonuna tıklandı
+2022-02-22 19:10:51 INFO  Log:37 - All menusundeki butun elementler alindi
+2022-02-22 19:10:51 INFO  Log:37 - menu seçildi
+2022-02-22 20:36:39 INFO  Log:37 - All butonuna tıklandı
+2022-02-22 20:36:50 INFO  Log:37 - All menusundeki butun elementler alindi
+2022-02-22 20:36:55 INFO  Log:37 - menu seçildi
+2022-02-22 20:38:16 INFO  Log:37 - All butonuna tıklandı
+2022-02-22 20:38:28 INFO  Log:37 - All menusundeki butun elementler alindi
+2022-02-22 20:38:33 INFO  Log:37 - menu seçildi
+2022-02-23 17:05:28 WARN  HashedWheelTimer:672 - An exception was thrown by TimerTask.
+java.lang.IllegalStateException: cannot be started once stopped
+	at io.netty.util.HashedWheelTimer.start(HashedWheelTimer.java:338)
+	at io.netty.util.HashedWheelTimer.newTimeout(HashedWheelTimer.java:413)
+	at org.asynchttpclient.netty.channel.DefaultChannelPool.scheduleNewIdleChannelDetector(DefaultChannelPool.java:95)
+	at org.asynchttpclient.netty.channel.DefaultChannelPool.access$900(DefaultChannelPool.java:43)
+	at org.asynchttpclient.netty.channel.DefaultChannelPool$IdleChannelDetector.run(DefaultChannelPool.java:378)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:669)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:744)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:469)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2022-02-24 12:23:19 INFO  Log:37 - aranan cumleler bulundu
+2022-02-24 12:25:55 INFO  Log:37 - aranan cumleler bulundu
+2022-02-24 12:28:24 INFO  Log:37 - aranan cumleler bulundu
+2022-02-24 12:31:33 INFO  Log:37 - aranan cumleler bulundu
+2022-02-24 15:35:38 INFO  Log:37 - url e gitti
+2022-02-24 15:39:14 INFO  Log:37 - url e gitti
+2022-02-24 15:42:54 INFO  Log:37 - url e gitti
+2022-02-24 15:42:57 INFO  Log:37 - link is clicked
+2022-02-24 15:54:05 INFO  Log:37 - url e gitti
+2022-02-24 15:54:10 INFO  Log:37 - link is clicked
+2022-02-24 15:54:56 INFO  Log:37 - url e gitti
+2022-02-24 15:55:01 INFO  Log:37 - link is clicked
+2022-02-24 18:12:00 INFO  Log:37 - url e gitti
+2022-02-24 18:12:03 INFO  Log:37 - link is clicked
+2022-02-24 18:12:53 INFO  Log:37 - url e gitti
+2022-02-24 18:12:57 INFO  Log:37 - link is clicked
+2022-02-24 18:13:29 INFO  Log:37 - url e gitti
+2022-02-24 18:14:33 INFO  Log:37 - url e gitti
+2022-02-24 18:17:28 INFO  Log:37 - url e gitti
+2022-02-24 18:18:30 INFO  Log:37 - url e gitti
+2022-02-24 18:19:28 INFO  Log:37 - url e gitti
+2022-02-24 18:23:09 INFO  Log:37 - url e gitti
+2022-02-25 11:50:55 INFO  Log:37 - url e gitti
+2022-02-25 12:00:58 INFO  Log:37 - url e gitti
+2022-02-25 12:07:00 INFO  Log:37 - url e gitti
+2022-02-25 12:12:06 INFO  Log:37 - url e gitti
+2022-02-25 12:20:58 INFO  Log:37 - url e gitti
+2022-02-25 12:25:48 INFO  Log:37 - url e gitti
+2022-02-25 12:28:37 INFO  Log:37 - url e gitti
+2022-02-25 12:34:46 INFO  Log:37 - url e gitti
+2022-02-25 12:36:13 INFO  Log:37 - url e gitti
+2022-02-25 12:39:32 INFO  Log:37 - url e gitti
+2022-02-25 13:04:04 INFO  Log:37 - url e gitti
+2022-02-26 17:56:43 INFO  Log:37 - price did not match
+2022-02-26 18:02:14 INFO  Log:37 - price did not match
+2022-02-28 00:15:01 INFO  Log:37 - url e gitti
+2022-02-28 00:16:32 INFO  Log:37 - url e gitti
+2022-02-28 00:16:44 INFO  Log:37 - item is in the shopping cart
+2022-02-28 00:18:49 INFO  Log:37 - url e gitti
+2022-02-28 00:19:01 INFO  Log:37 - item is in the shopping cart
+2022-02-28 00:23:27 INFO  Log:37 - url e gitti
+2022-02-28 00:23:40 INFO  Log:37 - item is in the shopping cart
+2022-02-28 00:25:09 INFO  Log:37 - url e gitti
+2022-02-28 00:25:21 INFO  Log:37 - item is in the shopping cart
+2022-02-28 00:27:59 INFO  Log:37 - url e gitti
+2022-02-28 00:28:13 INFO  Log:37 - item is in the shopping cart
+2022-02-28 00:29:06 INFO  Log:37 - url e gitti
+2022-02-28 00:29:20 INFO  Log:37 - item is in the shopping cart
+2022-02-28 00:30:39 INFO  Log:37 - url e gitti
+2022-02-28 00:30:50 INFO  Log:37 - item is in the shopping cart
+2022-02-28 00:35:07 INFO  Log:37 - url e gitti
+2022-02-28 00:35:18 INFO  Log:37 - item is in the shopping cart
+2022-02-28 01:07:38 INFO  Log:37 - items are seen in the wish list
+2022-02-28 09:55:19 INFO  Log:37 - All butonuna tıklandı
+2022-02-28 09:55:30 INFO  Log:37 - All menusundeki butun elementler alindi
+2022-02-28 09:55:41 INFO  Log:37 - electronics is selected
+2022-02-28 10:01:06 INFO  Log:37 - All butonuna tıklandı
+2022-02-28 10:01:18 INFO  Log:37 - electronics is selected
+2022-02-28 10:02:48 INFO  Log:37 - All butonuna tıklandı
+2022-02-28 10:02:58 INFO  Log:37 - electronics is selected
+2022-02-28 10:03:34 INFO  Log:37 - All butonuna tıklandı
+2022-02-28 10:03:46 INFO  Log:37 - electronics is selected
+2022-02-28 10:03:46 INFO  Log:37 - alt katogorilerin kaç tane olduğu doğrulandı
+2022-02-28 10:10:39 INFO  Log:37 - All butonuna tıklandı
+2022-02-28 10:10:51 INFO  Log:37 - electronics is selected
+2022-02-28 10:10:51 INFO  Log:37 - alt katogorilerin kaç tane olduğu doğrulandı
+2022-02-28 10:10:52 INFO  Log:37 - beklenen tüm alt kategorilerin olduğu doğrulandı
+2022-02-28 10:10:52 INFO  Log:26 - ---------------------------------------------------------------------------------------
+2022-02-28 10:10:52 INFO  Log:27 - **************************        all menu testi END    **************************
+2022-02-28 10:10:52 INFO  Log:28 - ---------------------------------------------------------------------------------------
+2022-02-28 10:17:20 INFO  Log:37 - url e gitti
+2022-02-28 10:17:34 INFO  Log:37 - item is in the shopping cart
+2022-02-28 10:19:41 INFO  Log:37 - items are seen in the wish list
+2022-02-28 10:42:20 INFO  Log:37 - aranan cumleler bulundu
+2022-02-28 10:42:32 INFO  Log:37 - aranan cumleler bulundu
+2022-02-28 10:56:09 INFO  Log:37 - price did not match
+2022-02-28 10:57:44 INFO  Log:37 - url e gitti
+2022-02-28 10:58:50 INFO  Log:37 - url e gitti
+2022-02-28 11:12:20 INFO  Log:37 - url e gitti
+2022-02-28 11:14:53 INFO  Log:37 - url e gitti
+2022-02-28 11:21:16 INFO  Log:37 - url e gitti
+2022-02-28 11:21:35 INFO  Log:37 - prices matched
+2022-02-28 11:25:59 INFO  Log:37 - url e gitti
+2022-02-28 11:30:46 INFO  Log:37 - url e gitti
+2022-02-28 11:32:53 INFO  Log:37 - url e gitti
+2022-02-28 11:35:17 INFO  Log:37 - url e gitti
+2022-02-28 11:36:20 INFO  Log:37 - url e gitti
+2022-02-28 11:39:15 INFO  Log:37 - url e gitti
+2022-02-28 11:42:00 INFO  Log:37 - url e gitti
+2022-02-28 11:42:13 INFO  Log:37 - prices matched
+2022-02-28 11:43:55 INFO  Log:37 - url e gitti
+2022-02-28 11:44:11 INFO  Log:37 - prices matched
+2022-02-28 11:46:01 INFO  Log:37 - url e gitti
+2022-02-28 11:46:16 INFO  Log:37 - prices matched
+2022-02-28 11:51:12 INFO  Log:37 - url e gitti
+2022-02-28 11:54:57 INFO  Log:37 - url e gitti
+2022-02-28 11:58:15 INFO  Log:37 - url e gitti
+2022-02-28 12:03:12 INFO  Log:37 - url e gitti
+2022-02-28 12:04:03 INFO  Log:37 - url e gitti
+2022-02-28 12:05:15 INFO  Log:37 - url e gitti
+2022-02-28 12:08:33 INFO  Log:37 - url e gitti
+2022-02-28 12:09:21 INFO  Log:37 - url e gitti
+2022-02-28 12:11:21 INFO  Log:37 - url e gitti
+2022-02-28 12:19:39 INFO  Log:37 - url e gitti
+2022-02-28 12:25:52 INFO  Log:37 - url e gitti
+2022-02-28 12:27:49 INFO  Log:37 - url e gitti
+2022-02-28 12:29:12 INFO  Log:37 - url e gitti
+2022-02-28 12:31:47 INFO  Log:37 - url e gitti
+2022-02-28 12:35:34 INFO  Log:37 - url e gitti
+2022-02-28 12:45:28 INFO  Log:37 - url e gitti
+2022-02-28 12:47:48 INFO  Log:37 - url e gitti
+2022-02-28 12:51:08 INFO  Log:37 - url e gitti
+2022-02-28 17:54:20 INFO  Log:37 - url e gitti
+2022-02-28 17:55:20 INFO  Log:37 - url e gitti
+2022-02-28 22:19:21 INFO  Log:37 - url e gitti
+2022-02-28 22:21:57 INFO  Log:37 - url e gitti
+2022-02-28 22:47:35 INFO  Log:37 - url e gitti
+2022-02-28 22:55:38 INFO  Log:37 - url e gitti
+2022-02-28 22:57:24 INFO  Log:37 - url e gitti
+2022-02-28 23:02:27 INFO  Log:37 - url e gitti
+2022-02-28 23:02:44 INFO  Log:37 - prices matched
+2022-02-28 23:21:30 INFO  Log:37 - price did not match
+2022-03-01 00:24:54 INFO  Log:37 - price did not match
+2022-03-01 12:41:56 INFO  Log:37 - price did not match
+2022-03-01 12:46:07 INFO  Log:37 - url e gitti
+2022-03-01 13:13:47 INFO  Log:37 - url e gitti
+2022-03-01 13:25:55 INFO  Log:37 - url e gitti
+2022-03-01 13:26:03 INFO  Log:37 - All menusundeki butun elementler alindi
+2022-03-01 14:07:36 INFO  Log:37 - url e gitti
+2022-03-01 14:07:49 INFO  Log:37 - 2.elemente tiklandi
+2022-03-01 14:23:37 INFO  Log:37 - url e gitti
+2022-03-01 14:23:50 INFO  Log:37 - 2.elemente tiklandi
+2022-03-01 14:36:18 INFO  Log:37 - url e gitti
+2022-03-01 14:36:30 INFO  Log:37 - 2.elemente tiklandi
+2022-03-01 14:37:57 INFO  Log:37 - url e gitti
+2022-03-01 14:38:15 INFO  Log:37 - 2.elemente tiklandi
+2022-03-01 14:38:21 INFO  Log:37 - prices matched
+2022-03-01 15:02:57 INFO  Log:37 - url e gitti
+2022-03-01 15:03:11 INFO  Log:37 - item is in the shopping cart
+2022-03-01 15:13:40 INFO  Log:37 - url e gitti
+2022-03-01 15:13:54 INFO  Log:37 - item is in the shopping cart
+2022-03-01 15:14:00 INFO  Log:37 - item is in the shopping cart deleted
+2022-03-01 15:26:01 INFO  Log:37 - items are seen in the wish list
+2022-03-04 17:42:15 INFO  Log:37 - url e gitti
+2022-03-04 17:42:40 INFO  Log:37 - item is in the shopping cart
+2022-03-04 17:42:49 INFO  Log:37 - item is in the shopping cart deleted
+2022-03-08 16:23:24 INFO  Log:37 - url e gitti
+2022-03-08 17:20:46 INFO  Log:37 - url e gitti
+2022-03-08 17:26:01 INFO  Log:37 - url e gitti
+2022-03-08 17:29:55 INFO  Log:37 - url e gitti
+2022-03-08 17:36:11 INFO  Log:37 - url e gitti
+2022-03-08 17:40:07 INFO  Log:37 - url e gitti
+2022-03-08 17:40:43 INFO  Log:37 - items are seen in the wish list
+2022-03-08 17:42:26 INFO  Log:37 - url e gitti
+2022-03-08 17:43:01 INFO  Log:37 - items are seen in the wish list
+2022-03-08 17:43:04 INFO  Log:37 - url e gitti
+2022-03-08 17:43:06 INFO  Log:37 - link is clicked
+2022-03-08 17:56:29 INFO  Log:37 - url e gitti
+2022-03-08 17:58:31 INFO  Log:37 - url e gitti
+2022-03-08 18:04:27 INFO  Log:37 - url e gitti
+2022-03-08 18:07:51 INFO  Log:37 - url e gitti
+2022-03-08 18:10:31 INFO  Log:37 - url e gitti
+2022-03-08 18:13:09 INFO  Log:37 - url e gitti
+2022-03-08 18:13:47 INFO  Log:37 - items are seen in the wish list
+2022-03-08 18:13:51 INFO  Log:37 - url e gitti
+2022-03-08 18:13:53 INFO  Log:37 - link is clicked

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.552">
+    <testcase classname="Verify that when user clicks on ALL section, he/she can choose/see all elements in ALL section" name="User verifies how elements are selected in  ALL menu" time="0.175">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception">
+            <![CDATA[When User navigates to homepage.............................................undefined
+And User clicks on ALL section..............................................skipped
+Then Verify that all elements are seen......................................skipped
+And User chooses one of them................................................skipped
+And User verifies that any section can be chosen or selected................skipped
+]]>
+        </failure>
+    </testcase>
+</testsuite>

@@ -1,0 +1,103 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 3,
+        "name": "User will be able to sign in with invalid credentials",
+        "description": "",
+        "id": "verify-if-a-user-will-be-able-to-sign-in-with-a-invalid-username-and-invalid-password.;user-will-be-able-to-sign-in-with-invalid-credentials",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 17157650201,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User navigates to \"https://www.amazon.com/\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"https://www.amazon.com/\"",
+                  "offset": 18
+                }
+              ],
+              "location": "US02StepDef.user_navigates_to(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3002712310,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User clicks on sign in button",
+            "match": {
+              "location": "US02StepDef.user_clicks_on_sign_in_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1992489445,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User types invalid credentials",
+            "match": {
+              "location": "US02StepDef.user_types_invalid_credentials()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 174867593,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User clicks on submit button",
+            "match": {
+              "location": "US02StepDef.user_clicks_on_submit_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1000100609,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User verifies that user can not sign in",
+            "match": {
+              "location": "US02StepDef.user_verifies_that_nosign_in()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@us02"
+          }
+        ]
+      }
+    ],
+    "name": "Verify if a user will be able to sign in with a invalid username and invalid password.",
+    "description": "",
+    "id": "verify-if-a-user-will-be-able-to-sign-in-with-a-invalid-username-and-invalid-password.",
+    "keyword": "Feature",
+    "uri": "src/test/resources/uiFeature/us02.feature",
+    "tags": [
+      {
+        "name": "@us02",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
