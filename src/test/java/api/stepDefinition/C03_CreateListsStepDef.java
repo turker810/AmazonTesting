@@ -112,12 +112,6 @@ public class C03_CreateListsStepDef extends TestBaseApi {
         Assert.assertEquals(ConfigReader.getProperty("idList"),jsonPath.getString("id"));
         Assert.assertEquals(ConfigReader.getProperty("idBoard"),jsonPath.getString("idBoard"));
     }
-//    {
-//        "id": "6226c0925af7343cd1d437a3",
-//            "name": "updateListName",
-//            "closed": false,
-//            "idBoard": "6226b99d6e690c0a0e0e1a3d",
-//            "pos": 2048
-//    }
+
 
 }
