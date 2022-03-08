@@ -141,7 +141,8 @@ public class C01_CreateBoardStepDef extends TestBaseApi {
 
 
 }
-//{name=a, key=f8b3320467128ba1511e10fc8af85cf4, token=3eb5076a19cc4638e8a6355327ce78791f28793d4785d91e389b773381344afb}
+//{name=a, key=f8b3320467128ba1511e10fc8af85cf4}
+
 //        {
 //        "id": "6223895cac28eb796a82f77b",
 //        "name": "a",
